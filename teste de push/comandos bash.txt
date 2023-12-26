@@ -1,0 +1,12 @@
+*git clone + link do repositório = inclui na máquina o repositório do GitHub;
+
+*cd + nome do repositório = abre o repositório na máquina;
+
+*git status = verifica como está o main;
+
+*git add, git add ., ou git add -A = envia as alterações para o controle de versão LOCAL;
+
+*git commit -m (para mensagem) "sua mensagem" = cria commit para o arquivo;
+
+git push origin main = envia todos os commits para a nuvem (GitHub).
+
